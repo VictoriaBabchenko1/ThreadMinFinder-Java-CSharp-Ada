@@ -1,0 +1,14 @@
+/Users/viktoriababchenko/pet-projects/Parallel-computational-processes/lab2/ThreadMinFinder-С#/ThreadMinFinder-С#/bin/Debug/net9.0/ThreadMinFinder-С#
+/Users/viktoriababchenko/pet-projects/Parallel-computational-processes/lab2/ThreadMinFinder-С#/ThreadMinFinder-С#/bin/Debug/net9.0/ThreadMinFinder-С#.deps.json
+/Users/viktoriababchenko/pet-projects/Parallel-computational-processes/lab2/ThreadMinFinder-С#/ThreadMinFinder-С#/bin/Debug/net9.0/ThreadMinFinder-С#.runtimeconfig.json
+/Users/viktoriababchenko/pet-projects/Parallel-computational-processes/lab2/ThreadMinFinder-С#/ThreadMinFinder-С#/bin/Debug/net9.0/ThreadMinFinder-С#.dll
+/Users/viktoriababchenko/pet-projects/Parallel-computational-processes/lab2/ThreadMinFinder-С#/ThreadMinFinder-С#/bin/Debug/net9.0/ThreadMinFinder-С#.pdb
+/Users/viktoriababchenko/pet-projects/Parallel-computational-processes/lab2/ThreadMinFinder-С#/ThreadMinFinder-С#/obj/Debug/net9.0/ThreadMinFinder-С#.GeneratedMSBuildEditorConfig.editorconfig
+/Users/viktoriababchenko/pet-projects/Parallel-computational-processes/lab2/ThreadMinFinder-С#/ThreadMinFinder-С#/obj/Debug/net9.0/ThreadMinFinder-С#.AssemblyInfoInputs.cache
+/Users/viktoriababchenko/pet-projects/Parallel-computational-processes/lab2/ThreadMinFinder-С#/ThreadMinFinder-С#/obj/Debug/net9.0/ThreadMinFinder-С#.AssemblyInfo.cs
+/Users/viktoriababchenko/pet-projects/Parallel-computational-processes/lab2/ThreadMinFinder-С#/ThreadMinFinder-С#/obj/Debug/net9.0/ThreadMinFinder-С#.csproj.CoreCompileInputs.cache
+/Users/viktoriababchenko/pet-projects/Parallel-computational-processes/lab2/ThreadMinFinder-С#/ThreadMinFinder-С#/obj/Debug/net9.0/ThreadMinFinder-С#.dll
+/Users/viktoriababchenko/pet-projects/Parallel-computational-processes/lab2/ThreadMinFinder-С#/ThreadMinFinder-С#/obj/Debug/net9.0/refint/ThreadMinFinder-С#.dll
+/Users/viktoriababchenko/pet-projects/Parallel-computational-processes/lab2/ThreadMinFinder-С#/ThreadMinFinder-С#/obj/Debug/net9.0/ThreadMinFinder-С#.pdb
+/Users/viktoriababchenko/pet-projects/Parallel-computational-processes/lab2/ThreadMinFinder-С#/ThreadMinFinder-С#/obj/Debug/net9.0/ThreadMinFinder-С#.genruntimeconfig.cache
+/Users/viktoriababchenko/pet-projects/Parallel-computational-processes/lab2/ThreadMinFinder-С#/ThreadMinFinder-С#/obj/Debug/net9.0/ref/ThreadMinFinder-С#.dll
