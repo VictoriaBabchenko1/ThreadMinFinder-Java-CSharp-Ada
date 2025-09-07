@@ -12,3 +12,4 @@
 /Users/viktoriababchenko/pet-projects/Parallel-computational-processes/lab2/ThreadMinFinder-С#/ThreadMinFinder-С#/obj/Debug/net9.0/ThreadMinFinder-С#.pdb
 /Users/viktoriababchenko/pet-projects/Parallel-computational-processes/lab2/ThreadMinFinder-С#/ThreadMinFinder-С#/obj/Debug/net9.0/ThreadMinFinder-С#.genruntimeconfig.cache
 /Users/viktoriababchenko/pet-projects/Parallel-computational-processes/lab2/ThreadMinFinder-С#/ThreadMinFinder-С#/obj/Debug/net9.0/ref/ThreadMinFinder-С#.dll
+/Users/viktoriababchenko/pet-projects/Parallel-computational-processes/lab2/ThreadMinFinder-С#/ThreadMinFinder-С#/obj/Debug/net9.0/ThreadMinFinder-С#.sourcelink.json
